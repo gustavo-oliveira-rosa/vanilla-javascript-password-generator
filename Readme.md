@@ -6,10 +6,6 @@ Um gerador de senhas seguras e personalizável desenvolvido com JavaScript vanil
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-JS%2FHTML%2FCSS-blue)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
-## ✨ Demonstração
-
-![Demonstração do Gerador de Senhas](https://via.placeholder.com/800x400/667eea/ffffff?text=Gerador+de+Senhas+Seguras)
-
 ## 🚀 Características
 
 - ✅ **Geração personalizável** de senhas
